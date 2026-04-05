@@ -1,2 +1,2 @@
 
-python-assignment-part1
+Python-Assignment-Part1
